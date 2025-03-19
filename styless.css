@@ -1,0 +1,46 @@
+
+header {
+    #grad1
+    height: 200px;
+    text-align: center;
+    background-color:rgb(58, 144, 225) ;
+    background-image: linear-gradient(to bottom right, rgb(40, 83, 223), rgb(126, 187, 244));
+    background-size:cover;
+   color: white;
+  }
+  .whitelink{
+    color: white;
+  }
+  .special{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+  article {
+    max-width: 500px;
+    padding:20px;
+    margin:0 auto;
+  }
+
+  img {
+    margin: 40px 0px 0px 0px;
+    border: 7px solid rgb(119, 188, 126);
+    border-radius: 20px;
+  }
+
+  h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  article {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  body {
+    #grad1
+    background-color: aqua;
+    background-image: linear-gradient(to bottom right, rgb(255,255,255), rgb(173,237,255) );
+  }
