@@ -2,7 +2,7 @@
 - 👀 I’m interested in art
 - 🌱 I’m currently learning html
 - 😄 Pronouns:she/her
-- ⚡ Fun fact: | v |
+- ⚡ Fun fact: | v | <---- I made this not sure why
 
 <!---
 techbysophie-rae/techbysophie-rae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
